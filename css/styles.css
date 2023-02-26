@@ -1,9 +1,15 @@
+#main-title {
+  margin-bottom: 20px;
+}
+
 .nav-item {
   font-size: 1.2em;
 }
 
-#main-section {
+.main-section {
   background-color: #eee;
+  margin-top: 8px;
+  margin-bottom: 8px;
   padding: 20px;
-  height: 1000px;
+  height: 500px;
 }
